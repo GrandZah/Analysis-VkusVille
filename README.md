@@ -6,11 +6,7 @@ Parsing the VkusVilla website, collecting a dataset, analyzing data on ready-to-
 
 В папке src/parser, там же README.md и более подробно.
 
-Возвращаем информацию в формате. 
-
 
 # Анализ данных
 
-В папке src/analysis 
-
-
+В папке src/analysis, там же README.md и более подробно.
